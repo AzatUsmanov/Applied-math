@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2772d6d2-ea4c-4949-bc6f-362617bcf51c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../math.model lab1/.idea/math.model lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../math.model lab2/.idea/math.model lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Discord.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Discord.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SQL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/1lec/I.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/1lec/J.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/2lec/D.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/2lec/E.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/2lec/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/3lec/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/3lec/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/3lec/G.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/3lec/I.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/4lec/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/4lec/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/ML/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/ML/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/ML/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Mobile Android/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Mobile Android/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Mobile Android/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Mobile Android/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Mobile IOS/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Mobile IOS/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Mobile IOS/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Mobile IOS/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/problem (3).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/problem (6).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Аналитика/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Аналитика/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Бэкенд/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Фронтенд/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Фронтенд/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Фронтенд/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Yandex-training/Фронтенд/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../banks/banks/Entities/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../banks/banks/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../banks/banks/Models/Accounts/CreditAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../banks/banks/Models/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../banks/banks/Models/Operations/WithdrawMoneyOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../is-tech/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../is-tech/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../is-tech/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../is-tech/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../is-tech/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../is-tech/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/BankTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Entities/Bank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Entities/class-use/CentralBank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Entities/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Exceptions/BankException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Interfaces/Function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Models/Accounts/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Models/Operations/TransferMoneyOperation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Models/Operations/class-use/PutMoneyOperation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Models/Operations/class-use/WithdrawMoneyOperation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Models/Operations/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/Models/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/banks/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/index-files/index-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/index-files/index-17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/BankTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Entities/class-use/Bank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Entities/class-use/Client.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Exceptions/class-use/BankException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Exceptions/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Interfaces/Function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/Accounts/DepositAccount.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/Accounts/class-use/BankAccount.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/Accounts/class-use/CreditAccount.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/Accounts/class-use/DepositAccount.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/Accounts/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/Operations/WithdrawMoneyOperation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/Operations/class-use/Operation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/Operations/class-use/WithdrawMoneyOperation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/class-use/ClientBuilder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/class-use/Notification.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/Models/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/class-use/BankTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/banks/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/jquery-ui.overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/lab-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/src/banks/Entities/CentralBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/src/banks/Exceptions/BankException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/src/banks/Interfaces/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/src/banks/Models/Accounts/CreditAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/src/banks/Models/Accounts/DebitAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab-1/src/banks/Models/Operations/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../repo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../repo/.idea/repo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../repoz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/entities/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/exceptions/EmployeesException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/hibernate/EmployeesHibernate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/hibernate/HibernateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/interfaces/DataBaseConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/interfaces/TaskMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/jdbc/EmployeesJDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/mybatis/EmployeeMyBatis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/java/org/example/employees/mybatis/MyBaitsUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled1/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/7.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/8.0.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/entities/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/exceptions/EmployeesException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/hibernate/EmployeesHibernate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/hibernate/HibernateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/interfaces/DataBaseConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/interfaces/TaskMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/jdbc/EmployeesJDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/mybatis/EmployeesMyBatis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/java/javaDB/mybatis/MyBaitsUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/script.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepic_java_webserver-master/untitled4/src/test/java/javaDB/tests/EmployeesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepik/#1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepik/brackets.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stepik/gmFw84Nja_U.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tech/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tech/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tech/.idea/tech.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tech/out/production/lab-1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tech/out/production/lab-1/banks/Exceptions/BankException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tech/out/production/lab-1/banks/Models/Operations/PutMoneyOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка (2)/Tests/banks/BankTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка (2)/src/banks/Entities/CentralBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка (2)/src/banks/Exceptions/BankException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка (2)/src/banks/Models/Accounts/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка (2)/src/banks/Models/Accounts/CreditAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка (2)/src/banks/Models/Operations/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка (2)/src/banks/Models/Operations/TransferMoneyOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка/banks/Interfaces/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка/banks/Models/Accounts/CreditAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка/banks/Models/Accounts/DebitAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка/banks/Models/ClientBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка/banks/Models/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка/banks/Models/Operations/PutMoneyOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новая папка/banks/Models/Operations/TransferMoneyOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Новый текстовый документ (4).txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Новый текстовый документ (4).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Яндекс.Диск.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Яндекс.Диск.lnk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2RtiRSdEql0gUfVfkXPrmF0HaaR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2772d6d2-ea4c-4949-bc6f-362617bcf51c" name="Changes" comment="" />
+      <created>1688075770003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688075770003</updated>
+    </task>
+    <servers />
+  </component>
+</project>
